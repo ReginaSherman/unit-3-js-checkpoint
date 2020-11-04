@@ -1,0 +1,15 @@
+{
+  "name": "js-midcourse-checkpoint",
+  "version": "1.0.0",
+  "description": "Congratulations on completing the first half of SEI! 🥂",
+  "main": "arrays.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.generalassemb.ly:sei-921/js-midcourse-checkpoint.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
