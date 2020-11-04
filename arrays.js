@@ -8,24 +8,33 @@
 // PROMPT 1
 // Use an array method to return an array that contains the titles of the art objects
 
-var titles = null;
+var titles = artData.map((obj) => obj.title);
 
 ////////////////////////////////////////////////
 // PROMPT 2
 // Use array methods to eturn an array of objects that contains the long titles and artists (principalOrFirstMaker) as properties for each item
 // Example: { title: 'Italian Landscape with a Draughtsman', artist: 'Jan Both' }
 
-var titleAndArtistInfo = null;
-
+var titleAndArtistInfo = artData.reduce((acc, curVal) => {
+	acc.push({ title: curVal.title, artist: curVal.principalOrFirstMaker });
+	return acc;
+}, []);
 ////////////////////////////////////////////////
 // PROMPT 3
 // Use array methods to return an array with strings of image elements that interpolate the webImage url as the src attribute and the title as the alt attribute
 // Hint: an img in a string `<img src=${null} alt=${null} />`
 
-var imageElements = null;
+var imageElements = artData.map((obj) => {
+	return `<img src=${obj.webImage.url} alt=${obj.title} />`;
+});
 
 ////////////////////////////////////////////////
 // PROMPT 4
 // Use array methods to return the number of art objects created by anonymous artists
 
-var numberOfAnonymousCreators = null;
+var numberOfAnonymousCreators = artData.reduce((acc, curVal) => {
+	if (curVal.principalOrFirstMaker === 'anonymous') {
+		acc++;
+	}
+	return acc;
+}, 0);

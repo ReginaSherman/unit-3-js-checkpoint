@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Congratulations on completing the first half of SEI! 🥂",
   "main": "objects.js",
-   "directories": {
+  "directories": {
     "test": "test"
   },
   "scripts": {
