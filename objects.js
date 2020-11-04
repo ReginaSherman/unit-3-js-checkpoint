@@ -98,47 +98,32 @@ var xFiles = {
 
 // PROMPT 1
 // Access the property with the value 'Arcadia'
-const arcadia = xFiles.bestEpisodes.comedic[1];
-// console.log(arcadia);
+var arcadia = null;
 
 // PROMPT 2
 // Access the property with the value 'Spooky'
-const spooky = xFiles.data.characters[0].nickname;
-// console.log(spooky);
+var spooky = null;
 
 // PROMPT 3
 // Access the property 'Walter S. Skinner'
-const skinner = xFiles.data.characters[2].name;
-// console.log(skinner);
+var skinner = null;
 
 // PROMPT 4
 // Access the property with the value 'Margaret Scully'
-const margaret = xFiles.data.characters[1].family.parents[1];
-// console.log(margaret);
+var margaret = null;
 
 // PROMPT 5
 // Loop over the cast and characters array and push them into an array of strings that contains a line for each actor and the character they portray, e.g., "Fox William Mulder is portrayed by David Duchovny"
 // Hint: The actors and their characters are listed in the same order
 
-const portrayedBy = [];
-
-for (let i = 0; i < xFiles.data.cast.length; i++) {
-	const newStr = `${xFiles.data.characters[i].name} is portrayed by ${xFiles.data.cast[i]}`;
-	portrayedBy.push(newStr);
-}
-
-// console.log(portrayedBy);
+var portrayedBy = null;
 
 // PROMPT 6
 // Use an array iteration method to return true if there are any true believers in the characters array, and false if there are none
-const stillAlive = xFiles.data.characters.some((character) => character.alive);
-console.info(stillAlive);
+var stillAlive = null;
 
 // PROMPT 7
 // Use array iteration methods to loop over the characters and return the names of the true believers
 // Hint: feel free to daisy-chain methods for more concise code
 
-const believers = xFiles.data.characters
-	.filter((character) => character.believer)
-	.map((character) => character.name);
-// console.log(believers);
+var believers = null;

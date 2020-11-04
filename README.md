@@ -1,14 +1,14 @@
 # Midcourse JS Checkpoint
 
-Congratulations on completing the first half of SEI! 🥂
+Congratulations on completing the first half of SEI! 🥂 🎉
 
-Before we move onto backend development, let's make sure our JavaScript essentials are in excellent shape after our React Unit.
+Before we move onto backend development and NodeJS, let's make sure our JavaScript essentials are in excellent shape after our React Unit.
 
 ## Before You Start:
 
 1. Fork and clone this directory to your sandbox.
 2. Checkout a dev branch.
-3. Run `npm install` within the director to download necessary dependencies.
+3. Run `npm install` within the directory to download necessary dependencies (Mocha and Chai testing moduels).
 4. Open this repo in your text editor.
 
 ## Instructions:
