@@ -14,12 +14,12 @@ Before we move onto backend development and NodeJS, let's make sure our JavaScri
 
 ## Instructions
 
-Write the JavaScript necessary to complete each prompt. Your goal is to get as many tests as possible to pass during this hour! ⏲️
-
+- Write the JavaScript necessary to complete each prompt.
+- Your goal is to get as many tests as possible to pass during this hour! ⏲️
 - Use the `var` keyword for all variable declarations (for testing purposes only).
 - Do not modify the files in the `/test/` folder.
 
-This checkpoint is divided into two sections. The suggested order is as follows:
+### Suggested Order
 
 1. Accessing and manipulating "X-Files"-themed data in complex objects and arrays in `objects.js` 👽
 
@@ -29,10 +29,10 @@ This checkpoint is divided into two sections. The suggested order is as follows:
 
 <img width="40%" src="https://media.giphy.com/media/PMk7mLm0CXOTjeeCF4/giphy.gif" alt="Rembrandt sketch, self-portrait, blinking eyes"/>
 
-## BONUS
+## Hungry for More
 
-If you finish early, check out [Slips](https://ga-dc.github.io/slips/), [CodeWars](https://codewars.com) or [HackerRank](https://www.hackerrank.com/). These are great resources to test your development knowledge and prep for technical interviews!
+Check out [Slips](https://ga-dc.github.io/slips/), [CodeWars](https://codewars.com) or [HackerRank](https://www.hackerrank.com/). These are great resources to test your development knowledge and prep for technical interviews!
 
-### Attributions
+## Attributions
 
 - Art data courtesy of the [Rijksmuseum API](https://data.rijksmuseum.nl/object-metadata/api/).
