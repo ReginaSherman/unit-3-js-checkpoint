@@ -1,4 +1,4 @@
-// examine the data in the art objects file
+// examine the data in the art data file
 // use the artData variable below to answer the prompts below
 // var { artData } = require('./artData.js');
 // NOTE: BEFORE RUNNING TESTS FOR THIS FILE, COMMENT OUT THE ABOVE ART OBJECTS VARIABLE
