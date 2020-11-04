@@ -90,4 +90,16 @@ describe('ARRAYS PROMPT #3', function () {
 			'<img src=https://lh3.googleusercontent.com/vkoS9jmZLZWuWH1LNIG3eJUVI6W7XqOUKmFf_lcuB4m1nJydWPXZGggi3XGwmirNj1wLdiO7sH6x5fJ60XJnH2expg=s0 alt= The Art Gallery of Jan Gildemeester Jansz />',
 		]);
 	});
+
+	describe('ARRAYS PROMPT #4', function () {
+		try {
+			eval(arrs);
+		} catch (e) {
+			console.log(e);
+		}
+		it('Returns a number with the correct value', function () {
+			expect(numberOfAnonymousCreators).to.be.a('number');
+			expect(numberOfAnonymousCreators).to.equal(2);
+		});
+	});
 });
