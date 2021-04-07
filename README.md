@@ -2,7 +2,7 @@
 
 Congratulations on completing the first half of SEI! 🎉 🥂
 
-Before we move onto backend development and NodeJS, let's make sure our JavaScript essentials are in excellent shape after our React Unit.
+As we learn more about backend development and NodeJS, let's keep our JavaScript essentials in excellent shape for React.
 
 ## Set Up
 
@@ -15,9 +15,11 @@ Before we move onto backend development and NodeJS, let's make sure our JavaScri
 ## Instructions
 
 - Write the JavaScript necessary to complete each prompt.
-- Your goal is to get as many tests as possible to pass during this hour! ⏲️
+- Your goal is to get as many tests as possible to pass! ⏲️
 - Use the `var` keyword for all variable declarations (for testing purposes only).
 - Do not modify the files in the `/test/` folder.
+
+Unless otherwise stated, homework is due the next class day at 10 am ET. 
 
 ### Suggested Order
 
