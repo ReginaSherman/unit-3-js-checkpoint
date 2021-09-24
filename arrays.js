@@ -12,8 +12,9 @@ var titles = null;
 
 ////////////////////////////////////////////////
 // PROMPT 2
-// Use array methods to eturn an array of objects that contains the long titles and artists (principalOrFirstMaker) as properties for each item
+// Use array methods to eturn an array of objects that contains the titles and artists (principalOrFirstMaker) as properties for each item
 // Example: { title: 'Italian Landscape with a Draughtsman', artist: 'Jan Both' }
+// Hint: If you are trying to return an object out of a map, you'll need to use the `return` keyword before the object!
 
 var titleAndArtistInfo = null;
 
