@@ -91,15 +91,16 @@ describe('ARRAYS PROMPT #3', function () {
 		]);
 	});
 
-	describe('ARRAYS PROMPT #4', function () {
-		try {
-			eval(arrs);
-		} catch (e) {
-			console.log(e);
-		}
-		it('Returns a number with the correct value', function () {
-			expect(numberOfAnonymousCreators).to.be.a('number');
-			expect(numberOfAnonymousCreators).to.equal(2);
-		});
+});
+
+describe('ARRAYS PROMPT #4', function () {
+	try {
+		eval(arrs);
+	} catch (e) {
+		console.log(e);
+	}
+	it('Returns a number with the correct value', function () {
+		expect(numberOfAnonymousCreators).to.be.a('number');
+		expect(numberOfAnonymousCreators).to.equal(2);
 	});
 });
