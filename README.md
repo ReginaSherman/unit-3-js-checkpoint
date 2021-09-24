@@ -2,7 +2,7 @@
 
 Congratulations on completing the first half of SEI! 🎉 🥂
 
-As we learn more about backend development and NodeJS, let's keep our JavaScript essentials in excellent shape for React.
+As we learn more about backend development and NodeJS, let's keep our JavaScript essentials in excellent shape.
 
 ## Set Up
 
