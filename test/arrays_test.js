@@ -85,7 +85,7 @@ describe('ARRAYS PROMPT #3', function () {
 			'<img src="https://lh3.googleusercontent.com/7JF0tll1eAfY8XgFHJ6Iq_e1xux4xgcT8_LxMfVbZdRMC5CX5KsXLH1DLlMEfuTfKX8kehtmhJyzJSBFEBDPFmeB6Y8=s0" alt="The Merry Family" />',
 			'<img src="https://lh3.googleusercontent.com/qjkiSAC89H2lvsgogjCe6WGLzMFNgdoCLHwRngvUX6BACTFTggkzIXE99tz9Em-hTf44MS9YeRsxCjDkW7tfC9lprw=s0" alt="The Holy Kinship" />',
 			'<img src="https://lh3.googleusercontent.com/hW-VHwzu0W0pvuTVVnx2vSCnO__rILy0Auxqz8L4TWVC0VWWaxrSGRDqGIBqKdl5nIINoxOlkFtlTNQQdsP3eOOhXw=s0" alt="Fishing for Souls" />',
-			'<img src="https://lh5.ggpht.com/vV5DJTpPEL5dOCFmytemK61JuTSX_9SQKI11U7uAhm4WB48zX6oyv8rXbBwYrSb7tPXUhERrROL8k2P9C5Q0NiOpCbs=s0" alt="Shiva Nataraja />',
+			'<img src="https://lh5.ggpht.com/vV5DJTpPEL5dOCFmytemK61JuTSX_9SQKI11U7uAhm4WB48zX6oyv8rXbBwYrSb7tPXUhERrROL8k2P9C5Q0NiOpCbs=s0" alt="Shiva Nataraja" />',
 			'<img src="https://lh3.ggpht.com/dEcAzU3879u6p7WXKY9L-BUuOInJYOsp6J_C-2v-gcYHNZVrkz8ZbCb6fL4g6WH4lBaTdNpOOKiMDgJraCo3hX2pmQ=s0" alt="The bodhisattva Manjushri" />',
 			'<img src="https://lh3.googleusercontent.com/vkoS9jmZLZWuWH1LNIG3eJUVI6W7XqOUKmFf_lcuB4m1nJydWPXZGggi3XGwmirNj1wLdiO7sH6x5fJ60XJnH2expg=s0" alt=" The Art Gallery of Jan Gildemeester Jansz" />',
 		]);
